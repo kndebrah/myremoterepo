@@ -15,3 +15,9 @@ print ("hello trying some more")
 #some changes
 print (4+8)
 
+#some addition changes
+print ("additional information")
+
+#performing some calculations
+print (45+87)
+
